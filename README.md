@@ -2,10 +2,10 @@
 
 使用Github Action将DockerHub镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
 
-视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
-Github 地址：https://github.com/tech-shrimp/docker_image_pusher
-阿里云镜像服务：https://cr.console.aliyun.com/
-Docker安装脚本: https://gitee.com/tech-shrimp/me/blob/master/doc/240502.md#安装docker
+> 视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
+> Github 地址：https://github.com/tech-shrimp/docker_image_pusher
+> 阿里云镜像服务：https://cr.console.aliyun.com/
+> Docker安装脚本: https://gitee.com/tech-shrimp/me/blob/master/doc/240502.md#安装docker
 
 ## 使用方式
 
