@@ -2,4 +2,5 @@ nginx:latest
 redis:latest
 mysql:8.0
 zookeeper
-hello-world
+rocketmqinc/rocketmq
+styletang/rocketmq-console-ng
