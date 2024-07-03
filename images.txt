@@ -1,6 +1,5 @@
-nginx:latest
-redis:latest
-mysql:8.0
-zookeeper
-apache/rocketmq:4.6.0
-styletang/rocketmq-console-ng
+mysql:8.0.32
+alpine:3.18.2
+phpmyadmin:5.2.1
+redis:6.2
+spryker/redis-commander:0.8.0
