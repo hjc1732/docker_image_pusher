@@ -1,1 +1,1 @@
-logstash:7.9.3
+elasticsearch:7.9.3
